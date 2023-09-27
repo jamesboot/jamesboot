@@ -1,8 +1,16 @@
-### Hi there 👋
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/james-boot-phd-051002a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+<div id="header" align="center">
+  <div id="header" align="center">
+    <picture>
+          <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="500"/>
+    </picture>
+  </div>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/james-boot-phd-051002a0/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    </div>
+  <picture>
+    <img src="https://komarev.com/ghpvc/?username=jamesboot&style=flat-square&color=blue" alt=""/>
+  </picture>
 </div>
 
 
