@@ -15,11 +15,36 @@
 
 # About me
 
-I am a passionate Bioinformatician at the Genome Centre (Queen Mary University of London), a core facility providing NGS services and analysis to internal and external clients. I learnt to code (R) and the basics of bioinformatics during my PhD, which was focussed on the epigenetic and transcriptomic profiles of Glioblastoma brain tumours. Being predominantly self-taught; I love the continual leanring process of coding and bioinformatics which makes everyday exciting! I have experience with many genomic datasets including: bulk-RNAseq, single-cell-RNAseq, spatial transcriptomics, ChIPseq, RRBS, methylation arrays and WGS... and non-genomic datasets such as flow cytometry. My services range from support to full analysis pipelines for clients, which may include where appropriate: quality control, filtering, normalisation, dimensionality reduction, clustering, exploratory analysis, batch correction, differential analysis, pathway analysis and more.
-
+## TL;DR
 - 🔭 I’m currently working on: implementing ML models in analysis pipelines & pipeline automation.
 - 🌱 I’m currently learning: NextFlow!
 - 💬 Ask me about: Anything! I'll try and help as best as I can!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I went to high school in China! 
+- ⚡ Fun fact: I went to high school in China!
+
+## Extended 
+I am a passionate Bioinformatician at the Genome Centre (Queen Mary University of London), a core facility providing NGS services and analysis to internal and external clients. I learnt to code (R) and the basics of bioinformatics during my PhD, which was focussed on the epigenetic and transcriptomic profiles of Glioblastoma brain tumours. Being predominantly self-taught; I love the continual leanring process of coding and bioinformatics which makes everyday exciting! 
+
+I have experience with many dataset types including: 
+- Bulk-RNAseq
+- Single-cell-RNAseq
+- Spatial transcriptomics
+- ChIPseq
+- RRBS
+- Methylation arrays
+- WGS
+- Flow cytometry
+
+My services range from support to full analysis pipelines for clients, which may include where appropriate: 
+- Quality control
+- Filtering
+- Normalisation
+- Dimensionality reduction
+- Clustering
+- Exploratory analysis
+- Batch correction
+- Differential analysis,
+- Pathway analysis and more.
+
+
