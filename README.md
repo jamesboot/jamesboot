@@ -13,9 +13,9 @@
   </picture>
 </div>
 
-# About me
+# :mega: About me
 
-## TL;DR
+## :alarm_clock: TL;DR
 - 🔭 I’m currently working on: implementing ML models in analysis pipelines & pipeline automation.
 - 🌱 I’m currently learning: NextFlow!
 - 💬 Ask me about: Anything! I'll try and help as best as I can!
@@ -23,7 +23,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I went to high school in China!
 
-## Extended 
+## :pencil: Key publications
+- https://doi.org/10.7554/eLife.77335
+- https://doi.org/10.1038/s41467-021-26297-6
+
+## :page_facing_up: Extended Intro
 I am a passionate Bioinformatician at the Genome Centre (Queen Mary University of London), a core facility providing NGS services and analysis to internal and external clients. I learnt to code (R) and the basics of bioinformatics during my PhD, which was focussed on the epigenetic and transcriptomic profiles of Glioblastoma brain tumours. Being predominantly self-taught; I love the continual leanring process of coding and bioinformatics which makes everyday exciting! 
 
 I have experience with many dataset types including: 
