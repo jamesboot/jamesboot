@@ -16,11 +16,10 @@
 # :mega: About me
 
 ## :alarm_clock: TL;DR
-- 🔭 I’m currently working on: implementing ML models in analysis pipelines & pipeline automation & playing with AI.
+- 🔭 I’m currently working on: implementing ML models in analysis & pipeline automation & spatial transcriptomics neighbourhood analysis (interactVis)!
 - 🌱 I’m currently learning: NextFlow!
 - 💬 Ask me about: Anything! I'll try and help as best as I can!
 - 📫 How to reach me: LinkedIn
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I went to high school in China! And my profile picture is AI generated (surprise!).
 
 ## :pencil: Key publications
