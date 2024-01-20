@@ -47,7 +47,7 @@ My services range from support to full analysis pipelines for clients, which may
 - Clustering
 - Exploratory analysis
 - Batch correction
-- Differential analysis,
+- Differential analysis
 - Pathway analysis and more.
 
 
