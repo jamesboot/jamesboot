@@ -27,7 +27,7 @@
 - https://doi.org/10.1038/s41467-021-26297-6
 
 ## :page_facing_up: Extended Intro
-I am a passionate Bioinformatician at the Genome Centre (Queen Mary University of London), a core facility providing NGS services and analysis to internal and external clients. I learnt to code (R) and the basics of bioinformatics during my PhD, which was focussed on the epigenetic and transcriptomic profiles of Glioblastoma brain tumours. Being predominantly self-taught; I love the continual learning process of coding and bioinformatics which makes everyday exciting! 
+I am a Senior Bioinformatician at The Francis Crick Institute in London, I work within the Bioinformatics and Biostatistics science technology platform providing analysis support to research scientists. I learnt to code (R) and the basics of bioinformatics during my PhD, which was focussed on the epigenetic and transcriptomic profiles of Glioblastoma brain tumours. Following my PhD I took up a position as Bioinformatician within the Genome Centre at QMUL for 3 years, before moving to The Crick. Being predominantly self-taught; I love the continual learning process of coding and bioinformatics which makes everyday exciting! 
 
 I have experience with many dataset types including: 
 - Bulk-RNAseq
